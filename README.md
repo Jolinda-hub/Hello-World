@@ -18,6 +18,6 @@ What I'm Working On:
     🔧 Projects: Experimenting with different DataOps tools and techniques.
     📈 Goals: To develop skills that help translate data into meaningful insights and solve real-world problems.
 
-Connect with Me
+Connect with Me!
 
     LinkedIn:https://www.linkedin.com/in/jolinda-lebele-88388b198/
