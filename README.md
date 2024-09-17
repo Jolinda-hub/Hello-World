@@ -2,7 +2,7 @@
 
 Hey there!
 
-I'm Jolie and I'm frenemies with Python!
+I'm Joli and I'm frenemies with Python!
 Besties with anything SQL though! 😍
 
 Welcome to my GitHub profile! I'm a budding Freelance DataOps Engineer, excited to dive into the world of data and cloud technologies.
