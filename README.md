@@ -20,4 +20,4 @@ What I'm Working On:
 
 Connect with Me!
 
-    LinkedIn:https://www.linkedin.com/in/jolinda-lebele-88388b198/
+    LinkedIn:https://www.linkedin.com/in/amohelang-jolinda-lebele
